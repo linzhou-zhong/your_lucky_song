@@ -1,3 +1,4 @@
+
 #Find the Number 1 Song on the Day You Were Born
 A python class and main function to find the most played song on the day you were born.
 
@@ -27,5 +28,5 @@ user = yds(dday=None, month=None, year=None)
 url = user.feel_lucky()
 ```
 
-Where `yds` is used to get the date you were born, and to get your lucky song from `feel_lucky` right now `:satisfied:`. 
+Where `yds` is used to get the date you were born, and to get your lucky song from `feel_lucky` right now !. 
 
