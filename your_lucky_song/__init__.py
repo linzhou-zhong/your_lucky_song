@@ -2,14 +2,13 @@ import sys
 import requests
 import urllib.request
 
-import self as self
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-__all__ = ['your_day_song']
+__all__ = ['your_lucky_song']
 
 
-class your_day_song:
+class your_lucky_song:
 
     url_billboard = 'https://www.billboard.com/charts/hot-100/'
     url_youtube = 'https://www.youtube.com/results?search_query='

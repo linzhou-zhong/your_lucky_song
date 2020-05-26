@@ -21,12 +21,14 @@ pip3 install your_day_song --user
 ```
 
 ### Into a Python program
+Remember to replace `day`, `month` and `year` in bracket with your favorite number. \
+Ex : `user = yls(day=1, month=1, year=1990)`
 ```python
-from your_day_song import your_day_song as yds
+from your_lucky_song import your_lucky_song as yls
 
-user = yds(dday=None, month=None, year=None)
+user = yls(day=None, month=None, year=None)
 url = user.feel_lucky()
 ```
 
-Where `yds` is used to get the date you were born, and to get your lucky song from `feel_lucky` right now !. 
+Where `yds` is used to get the date you were born, `feel_lucky()` will give you directly a url from Youtube and to export your lucky right now !. 
 
