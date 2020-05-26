@@ -19,7 +19,7 @@ if __name__ == "__main__":
         author="Linzhou ZHONG",
         author_email="justgiveacar@gmail.com",
         license="",
-        url="",
+        url="https://github.com/linzhou-zhong/your_day_song",
         install_requires=install_requires,
         tests_require=requirements_test,
         packages=find_packages(),
