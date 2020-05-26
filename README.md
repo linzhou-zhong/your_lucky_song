@@ -30,5 +30,6 @@ user = yls(day=None, month=None, year=None)
 url = user.feel_lucky()
 ```
 
-Where `yds` is used to get the date you were born, `feel_lucky()` will give you directly a url from Youtube and to export your lucky right now !. 
+Where `yds` is used to get the date you were born, `feel_lucky()` will give you directly a url from Youtube and to export your lucky right now ! 
 
+You'll get a Youtube url in the end, find the song which is the most popular on date when you were born, let's check it out :)
