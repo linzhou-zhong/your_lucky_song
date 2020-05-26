@@ -1,0 +1,4 @@
+pylint
+deepdiff
+pytest
+pylint-fail-under
