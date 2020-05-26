@@ -14,7 +14,7 @@ Under Windows and MacOs:
 ```shell
 pip3 install your_day_song
 ```
-If you meet per;issions issue, I recommend you try this step:
+If you meet permissions issue, I recommend you try this step:
 
 ```shell
 pip3 install your_day_song --user
